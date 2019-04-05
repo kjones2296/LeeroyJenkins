@@ -10,7 +10,7 @@ public class SampleTest {
 		int b = 2;
 		assertTrue(a + b == 3);
 	}
-	
+	/*
 	@Test
 	public void SimpleTestFail()
 	{
@@ -18,5 +18,5 @@ public class SampleTest {
 		int b = 2;
 		assertTrue(a + b == 4);
 	}
-
+	*/
 }
